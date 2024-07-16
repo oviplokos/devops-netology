@@ -1,4 +1,1 @@
-terraform.tfvars
-terraform.tfstate*
-.terraform*
-inventory.ini
+
