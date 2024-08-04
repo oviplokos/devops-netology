@@ -89,6 +89,8 @@ See 'snap info docker' for additional versions.
 Добейтесь аналогичного результата, используя docker cp.  
 Предоставьте скриншоты  действий .
 
+![6.1](https://github.com/oviplokos/devops-netology/blob/main/images/docker_12.png)
+
 ## Задача 6.2 (**)
 Предложите способ извлечь файл из контейнера, используя только команду docker build и любой Dockerfile.  
 Предоставьте скриншоты  действий .
