@@ -196,6 +196,8 @@ test = [
 
 **Важно. Удалите все созданные ресурсы**.
 
+[repo] (https://github.com/oviplokos/ter-homeworks/tree/main/02/src)
+
 
 ### Критерии оценки
 
